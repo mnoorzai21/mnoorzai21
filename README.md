@@ -12,6 +12,11 @@ A real-time momentum scanner that checks about 10,000 U.S. stocks every minute a
 - Background scanning with server-side caching, batched API requests and retry handling for rate limits
 - Automated tests with Node's test runner, plus CI and deployment through GitHub Actions, GitHub Pages and Render
 
+### 📚 [Book Search](https://github.com/mnoorzai21/book-searchjet-mnn) · [Live Demo](https://book-searchjet.onrender.com)
+Search the Google Books catalog, create an account and keep a personal reading list.
+- **React, Vite, Apollo GraphQL, Express, MongoDB Atlas**, JWT authentication
+- API tests against an in-memory MongoDB, CI on GitHub Actions, deployed on Render
+
 ### 🌤️ [Weather Dashboard](https://github.com/mnoorzai21/weather-dashboard-mnn) · [Live Demo](https://weather-dashboard-mnn.onrender.com)
 Search any city for current conditions and a five-day forecast, with saved search history.
 - **JavaScript, Express**, OpenWeatherMap API, responsive layout
@@ -22,8 +27,8 @@ My personal portfolio, built with **React** and **Bootstrap**.
 ## Tech Stack
 
 **Languages:** JavaScript, HTML, CSS, C, C++
-**Frontend:** React, Vite, Bootstrap
-**Backend:** Node.js, Express, REST APIs
+**Frontend:** React, Vite, Bootstrap, Apollo Client
+**Backend:** Node.js, Express, REST APIs, GraphQL (Apollo Server)
 **Databases:** MySQL, MongoDB
 **Tools:** Git, GitHub Actions, Render, GitHub Pages, VS Code, npm
 
