@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Nabi Noorzai 👋
 
-Software engineer and **Computer Science graduate from San Diego State University (2025)**. I build full-stack web applications with React, Node.js and Express, and I'm especially interested in fintech and real-time data.
+Software engineer and **Computer Science graduate from San Diego State University (2024)**. I build full-stack web applications with React, Node.js and Express, and I'm especially interested in fintech and real-time data.
 
 🎯 **Open to Software Engineer, Frontend Developer and Full-Stack Developer roles.**
 
