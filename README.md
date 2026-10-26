@@ -21,8 +21,8 @@ Search the Google Books catalog, create an account and keep a personal reading l
 Search any city for current conditions and a five-day forecast, with saved search history.
 - **JavaScript, Express**, OpenWeatherMap API, responsive layout
 
-### 💼 [Portfolio](https://github.com/mnoorzai21/nabi-react-portfolio) · [Live Site](https://mnoorzai21.github.io/nabi-react-portfolio)
-My personal portfolio, built with **React** and **Bootstrap**.
+### 💼 [Portfolio](https://mnoorzai.vercel.app) · [Live Site](https://mnoorzai.vercel.app)
+My personal portfolio, built with **TypeScript**, ** Next.js **, ** Tailwind **...
 
 ## Tech Stack
 
