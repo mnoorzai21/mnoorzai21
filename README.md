@@ -22,7 +22,7 @@ Search any city for current conditions and a five-day forecast, with saved searc
 - **JavaScript, Express**, OpenWeatherMap API, responsive layout
 
 ### 💼 [Portfolio](https://mnoorzai.vercel.app) · [Live Site](https://mnoorzai.vercel.app)
-My personal portfolio, built with **TypeScript**, ** Next.js **, ** Tailwind **...
+My personal portfolio, built with **TypeScript**, **Next.js**, **Tailwind**...
 
 ## Tech Stack
 
