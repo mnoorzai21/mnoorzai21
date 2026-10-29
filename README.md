@@ -2,7 +2,7 @@
 
 Software engineer and **Computer Science graduate from San Diego State University (December 2024)**. I build full-stack web applications with React, Next.js, TypeScript, and Node.js, and I'm especially interested in fintech and real-time data.
 
-🎯 **Open to Software Engineer, Frontend Developer, and Full-Stack Developer roles.**, remote preferred, also open to San Diego.
+🎯 **Open to Software Engineer, Frontend Developer, and Full-Stack Developer roles**, remote preferred, also open to San Diego.
 
 ## Featured Projects
 
