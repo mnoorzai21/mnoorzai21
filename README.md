@@ -6,6 +6,12 @@ Software engineer and **Computer Science graduate from San Diego State Universit
 
 ## Featured Projects
 
+### 📊 [TradeLens](https://github.com/mnoorzai21/tradelens) · [Live Demo](https://tradelens-mnoorzai.vercel.app)
+A full-stack trading journal where day traders log their trades and see what actually makes money: P/L, win rate, expectancy, R-multiples, and max drawdown.
+- **Next.js, TypeScript, PostgreSQL (Neon), Prisma**, Better Auth, Zod, Tailwind CSS
+- Server Components and Server Actions with server-side validation; every query scoped to the signed-in user (IDOR-safe)
+- Exact decimal money math covered by Vitest unit tests; CI on GitHub Actions and preview deployments on Vercel for every pull request
+
 ### 📈 [Stock Scanner](https://github.com/mnoorzai21/stock-scanner) · [Live Demo](https://mnoorzai21.github.io/stock-scanner/)
 A real-time momentum scanner that checks about 10,000 U.S. stocks every minute against five trading filters (price, % gain, relative volume, share float, and fresh news) and sends sound and desktop alerts.
 - **React, Vite, Node.js, Express**, Alpaca and Massive market data APIs
@@ -30,9 +36,11 @@ Search any city for current conditions and a five-day forecast, with saved searc
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS, C, C++
 - **Frontend:** React, Next.js, Vite, Tailwind CSS, Bootstrap, Apollo Client
-- **Backend:** Node.js, Express, REST APIs, GraphQL (Apollo Server)
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub Actions, Vercel, Render, GitHub Pages, VS Code, npm
+- **Backend:** Node.js, Express, REST APIs, GraphQL (Apollo Server), Next.js Server Actions
+- **Databases:** PostgreSQL, MySQL, MongoDB, Prisma ORM
+- **Auth & Validation:** Better Auth, JWT, Zod
+- **Testing:** Vitest, Node test runner
+- **Tools:** Git, GitHub Actions, Vercel, Neon, Render, GitHub Pages, VS Code, npm
 
 ## Connect
 
