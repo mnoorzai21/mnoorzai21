@@ -34,12 +34,12 @@ Search any city for current conditions and a five-day forecast, with saved searc
 
 ## Tech Stack
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, C, C++
+- **Languages:** TypeScript, JavaScript, Python, Java, C/C++, SQL, HTML, CSS
 - **Frontend:** React, Next.js, Vite, Tailwind CSS, Bootstrap, Apollo Client
 - **Backend:** Node.js, Express, REST APIs, GraphQL (Apollo Server), Next.js Server Actions
 - **Databases:** PostgreSQL, MySQL, MongoDB, Prisma ORM
 - **Auth & Validation:** Better Auth, JWT, Zod
-- **Testing:** Vitest, Node test runner
+- **Testing:** Vitest, Playwright, Node test runner
 - **Tools:** Git, GitHub Actions, Vercel, Neon, Render, GitHub Pages, VS Code, npm
 
 ## Connect
